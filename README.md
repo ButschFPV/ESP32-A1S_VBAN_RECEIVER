@@ -1,7 +1,7 @@
 # ESP32-A1S_VBAN_RECEIVER
 Receive VBAN streams from Voicemeeter.
 
-Runs on ESP32-A1S with AC101 audio codec.
+Developed on the ESP32-A1S audio dev board with AC101 audio codec.
 
 - Enter VBAN source IP address
 - Enter WiFi credentials
